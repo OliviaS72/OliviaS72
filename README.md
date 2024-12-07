@@ -1,6 +1,6 @@
-- 👋 Hi! My name is Olivia Schultheis, and I am a data science student.
+- 👋 Hi! My name is Olivia Schultheis, and I am a soon-to-be data science graduate.
 - I'm currently looking for my first role in data science!
-- My main programming languages are R and Python, and I am comfortable with SQL as well.
+- I code primarily with R, Python, and SQL.
 - Feel free to explore my projects and data science insights! 
 - 📫 I can be contacted at orsst658@mail.rmu.edu.
 <!---
